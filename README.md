@@ -1,4 +1,4 @@
- **Hola a todos, soy Marco Sánchez** 
+<center>*Hola a todos, soy Marco Sánchez*</center>
 
 <!--
 **MASE98/MASE98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
