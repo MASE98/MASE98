@@ -10,13 +10,6 @@
 
 I am a Computer Science Engineer and Student of the Master in Computer Science and Technology, with experience in quality management and incident control, programming in C, GNU debugger, microcontrollers, human-centered computing, and natural language processing with deep learning. I am passionate for technology
 
-
-### Notable Projects
-
-- [List of relevant projects with links to GitHub or other repositories if applicable]
-
----
-
 ### Technical Skills
 
 - Programming Languages: C, Python, Assembly, Java.
